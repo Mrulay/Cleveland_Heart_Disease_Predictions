@@ -19,4 +19,4 @@ The Contents of this dataset are:
 The above data was taken from: https://archive.ics.uci.edu/ml/datasets/Heart+Disease
 
 I have ran some analysis to find out the culprit of severity of the heart diseases and did find some interesting insights.
-All the visualizations and predicted models are in the jupyter notebook.
+All the visualizations and predicted models are in the heart_disease.ipynb
